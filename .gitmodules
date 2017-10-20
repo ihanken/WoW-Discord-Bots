@@ -1,0 +1,4 @@
+[submodule "WoW-Attendance-Bot"]
+	path = WoW-Attendance-Bot
+	url = https://github.com/ihanken/WoW-Attendance-Bot.git
+	branch = master
